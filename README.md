@@ -15,3 +15,5 @@ Instructions for contributing to this project.
 Mac emoji window shortcut in VSC is Control+Command+Space. Press simultaneously and hold. 🤯
 
 Adding this extended edit from my dev branch!
+
+### This is an about feature.
