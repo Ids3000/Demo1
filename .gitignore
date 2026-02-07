@@ -1,2 +1,17 @@
+# Specify files and folders to ignore in Git
 
+# Ignore the specific secrets.txt file
 secrets.txt 
+
+# Ingore an entire folder 
+SecretsPart2/
+
+#Ignore files of type 
+*.txt
+
+#Important and typical file *.extensions or folders/ that should be ignored 
+# *.log 
+# *.tmp
+# build/ usually known as dist/ or out/ in some projects
+# config.json
+
