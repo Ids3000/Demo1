@@ -25,10 +25,8 @@ This is Ida's imaginary coworker...
 # Another New Feature! WHAAAA 
 
 
-
-
-
-
+Stash list, feature A finished
+Feature B Finished 
 
 Who knew, I also have an imaginary boss in this scenario too! 
-feature B finished 
+
