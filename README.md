@@ -7,7 +7,7 @@ Instructions for installing this project.
 ## Usage 
 Instructions for using this project
 
-## Contributing 
+## Contributing and Week 6 Stashing 
 Instructions for contributing to this project.
 
 
