@@ -9,7 +9,7 @@ Instructions for using this project
 
 ## Contributing and Week 6 Stashing 
 Instructions for contributing to this project.
-
+I am adding for Week 6 Stashing practice.
 
 
 Mac emoji window shortcut in VSC is Control+Command+Space. Press simultaneously and hold. 🤯
@@ -18,3 +18,5 @@ Adding this extended edit from my dev branch!
 
 ### This is an about feature.
 Made fix from dev branch.
+
+# New Feature
